@@ -1,0 +1,24 @@
+.btn-primary{
+    background-color:#577CF5;
+    border-color: #577CF5;
+}
+.btn-primary:hover{
+    background-color:#4b6bd4;
+    border-color: #4b6bd4;
+}
+.main-txt-color{
+    color: #577CF5;
+}
+.main-txt-color-dark{
+    color: #7C7C7C;
+}
+.btn-space{
+    margin-right: 10px;
+}
+.cell-remove-padding{
+    padding: 0;
+}
+.alert-main-color{
+    background-color:#c4d3ff;
+    color: #577CF5;
+}
